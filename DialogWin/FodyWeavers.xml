@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weavers>
+  <Costura>
+    Sony.Vegas
+  </Costura>
+      <!--Microsoft.CSharp
+      PresentationCore
+      PresentationFramework
+      System
+      System.Core
+      System.Data
+      System.Data.DataSetExtensions
+      System.Xaml
+      System.Xml
+      System.Xml.Linq
+      WindowsBase-->
+</Weavers>
